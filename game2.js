@@ -13,16 +13,16 @@ let availableQuestions ={}
 
 let questions = [
     {
-        Questions:`What is insert?`,
+        Questions:`Whadsadasdt is insert?`,
         choice1: `input1`,
         choice2: `input2`,
-        choice3: `input3`,
+        choice3: `inpudsadsat3`,
         choice4: `input4`,
         answer: 1,
 
     },
     {
-        Questions:`What is insert?`,
+        Questions:`Whatdsadsad is insert?`,
         choice1: `input1`,
         choice2: `input2`,
         choice3: `input3`,
