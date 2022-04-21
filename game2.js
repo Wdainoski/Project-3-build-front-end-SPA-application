@@ -13,84 +13,84 @@ let availableQuestions ={}
 
 let questions = [
     {
-        Questions:`Whadsadasdt is insert?`,
-        choice1: `input1`,
-        choice2: `input2`,
-        choice3: `inpudsadsat3`,
-        choice4: `input4`,
-        answer: 1,
+        Questions:`From what language is the @ symbol from?`,
+        choice1: `Greek`,
+        choice2: `Spanish`,
+        choice3: `Latin`,
+        choice4: `English`,
+        answer: 3,
 
     },
     {
-        Questions:`Whatdsadsad is insert?`,
-        choice1: `input1`,
-        choice2: `input2`,
-        choice3: `input3`,
-        choice4: `input4`,
+        Questions:`What tech company is currently not in silicon valley?`,
+        choice1: `Tesla`,
+        choice2: `IBM`,
+        choice3: `Apple`,
+        choice4: `Google`,
         answer: 2,
 
     },{
-        Questions:`What is insert?`,
-        choice1: `input1`,
-        choice2: `input2`,
-        choice3: `input3`,
-        choice4: `input4`,
+        Questions:`What was the first virus within the DOS System?`,
+        choice1: `Zombie Virus`,
+        choice2: `Trojan Worm`,
+        choice3: `Brain Virus`,
+        choice4: `I love you virus`,
         answer: 3,
 
     },{
-        Questions:`What is insert?`,
-        choice1: `input1`,
-        choice2: `input2`,
-        choice3: `input3`,
-        choice4: `input4`,
+        Questions:`When was the first email sent?`,
+        choice1: `1971`,
+        choice2: `1969`,
+        choice3: `2002`,
+        choice4: `1999`,
         answer: 1,
 
     },{
-        Questions:`What is insert?`,
-        choice1: `input1`,
-        choice2: `input2`,
-        choice3: `input3`,
-        choice4: `input4`,
+        Questions:`Who is credited as the first computer programmer?`,
+        choice1: `Steve Jobs`,
+        choice2: `Ada Lovelace`,
+        choice3: `Konrad Zuse`,
+        choice4: `Albert Einstein`,
+        answer: 2,
+
+    },{
+        Questions:`What material is a compute processor made of?`,
+        choice1: `Iron`,
+        choice2: `Single Crystal Silicon`,
+        choice3: `Single Crystal Ruby`,
+        choice4: `Silicon Polychrystal`,
+        answer: 2,
+
+    },{
+        Questions:`What kind of paste is used inside a computer?`,
+        choice1: `Thermal Paste`,
+        choice2: `Tooth Paste`,
+        choice3: `Anti-fungal`,
+        choice4: `Silicon`,
         answer: 1,
 
     },{
-        Questions:`What is insert?`,
-        choice1: `input1`,
-        choice2: `input2`,
-        choice3: `input3`,
-        choice4: `input4`,
+        Questions:`What display resolution is full HD?`,
+        choice1: `1920x1020`,
+        choice2: `3820x3080`,
+        choice3: `1920x1080`,
+        choice4: `1280x720`,
+        answer: 3,
+
+    },{
+        Questions:`When older programmers said they had to fix bugs in the code what did they mean?`,
+        choice1: `Taking actual bugs out of the code`,
+        choice2: `Rewriting the entire code`,
+        choice3: `taking simple mistakes out`,
+        choice4: `setting the code on fire`,
         answer: 1,
 
     },{
-        Questions:`What is insert?`,
-        choice1: `input1`,
-        choice2: `input2`,
-        choice3: `input3`,
-        choice4: `input4`,
-        answer: 1,
-
-    },{
-        Questions:`What is insert?`,
-        choice1: `input1`,
-        choice2: `input2`,
-        choice3: `input3`,
-        choice4: `input4`,
-        answer: 1,
-
-    },{
-        Questions:`What is insert?`,
-        choice1: `input1`,
-        choice2: `input2`,
-        choice3: `input3`,
-        choice4: `input4`,
-        answer: 1,
-
-    },{
-        Questions:`What is insert?`,
-        choice1: `input1`,
-        choice2: `input2`,
-        choice3: `input3`,
-        choice4: `input4`,
+        Questions:`In 1786 Johann Henrich Von Muller called his written computer on paper what?`,
+        choice1: `Difference Engine`,
+        choice2: `Computer`,
+        choice3: `Desktope`,
+        choice4: `Electronic Gift`,
         answer: 1,
 
     }
